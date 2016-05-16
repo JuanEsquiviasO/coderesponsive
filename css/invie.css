@@ -438,13 +438,13 @@ input:focus, textarea:focus {
     margin: 0;
   }
   input [type="text"] {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
 
   input [type="text"],
   input [type="email"] {
     font-size: 16px;
-    padding: 5px
+    padding: 5px;
   }
   textarea {
     width: 100%;
